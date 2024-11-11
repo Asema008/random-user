@@ -4,7 +4,7 @@
 .random{
    width: 1000px;
    height: 1200px;
-    padding-left: 3000px;
+    padding-left: 1000px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 80px;
