@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&family=Caveat:wght@400..700&family=Indie+Flower&family=League+Script&family=Manrope:wght@200..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nabla&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Rubik+Wet+Paint&family=Sixtyfour+Convergence&family=Tangerine:wght@400;700&display=swap');
+
+.random{
+   width: 1000px;
+   height: 1200px;
+    padding-left: 3000px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 80px;
+   
+ }
+ .img{
+   border: 1px solid rgb(110, 78, 101);
+   padding: 50px;
+   height: 200px;
+   border-radius: 5px;
+   background-color: rgb(164, 206, 206);
+   font-family: "Atma", system-ui;
+   
+ }
